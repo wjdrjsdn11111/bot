@@ -1,0 +1,30 @@
+{
+  "name": "simple-discord-bot-template",
+  "version": "1.0.0",
+  "description": "A Simple starter discord.js bot template for making Discord bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freshy717/simple-discord-bot-template.git"
+  },
+  "keywords": [
+    "discord.js",
+    "starter",
+    "discord bot",
+    "starter",
+    "discordjs",
+    "bot"
+  ],
+  "author": "Freshy717",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freshy717/simple-discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/Freshy717/simple-discord-bot-template",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
